@@ -15,7 +15,7 @@ A new Flutter plugin project.
   s.source           = { :path => '.' }
   s.source_files = [
     'Classes/**/*',
-    'native_code/**/*.{cpp,hpp,c,h}',
+    'naive_code/**/*.{cpp,hpp,c,h}',
   ]
   s.dependency 'Flutter'
   s.platform = :ios, '12.0'
